@@ -14,7 +14,7 @@ Code, coffee, video games & music. My whole life in a nutshell :)
 | <img src="https://coderator.dev/assets/images/projects/gamebeeper-logo.svg" width="32" alt=""> | **[GameBeeper](https://gamebeeper.gg)** · [source](https://github.com/dante0747/gamebeeper.gg) | Gaming news, minus the noise. One feed from 34 trusted sources, no ads, no trackers. |
 | <img src="https://coderator.dev/assets/images/projects/geekspulse-logo.png" width="32" alt=""> | **[GeeksPulse](https://geekspulse.dev)** · [source](https://github.com/dante0747/geekspulse.dev) | Developer news, minus the noise. A daily briefing from 51 hand-picked feeds. |
 | <img src="https://coderator.dev/assets/images/projects/speclift-logo.svg" width="32" alt=""> | **[SpecLift](https://speclift.coderator.dev)** · [source](https://github.com/dante0747/spec-lift) | Swagger 2.0 → OpenAPI 3, privately in your browser. Swagger's rules, minus Swagger's bugs. |
-| <img src="https://coderator.dev/assets/images/projects/archsim-logo.svg" width="32" alt=""> | **[ArchSim](https://coderator.dev/projects/archsim/)** · [source](https://github.com/dante0747/archsim) | Crash-test your architecture before your users do. A flight simulator for distributed systems, open source in Java 25. |
+| <img src="https://coderator.dev/assets/images/projects/archsim-logo.svg" width="32" alt=""> | **[ArchSim](https://archsim.io)** · [live demo](https://app.archsim.io) · [source](https://github.com/dante0747/archsim) | Crash-test your architecture before your users do. A flight simulator for distributed systems, open source in Java 25. |
 
 More about each one at **[coderator.dev/projects](https://coderator.dev/projects/)**.
 
